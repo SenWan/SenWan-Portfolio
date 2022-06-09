@@ -10,9 +10,9 @@ const Header = () => {
             </div>
             <nav className='navbar d-flex'>
                 <CustomLink className="fw-bold" to="/">Home</CustomLink>
+                <CustomLink className="fw-bold" to="skills">Skills</CustomLink>
                 <CustomLink className="fw-bold" to="portfolio">Portfolio</CustomLink>
                 <CustomLink className="fw-bold" to="reviews">Contact</CustomLink>
-                <CustomLink className="fw-bold" to="about">About Me</CustomLink>
             </nav>
         </div>
     );

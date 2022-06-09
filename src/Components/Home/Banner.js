@@ -3,7 +3,7 @@ import { Button } from 'react-bootstrap';
 import './Banner.css'
 const Banner = () => {
     return (
-        <div className='Container d-flex justify-content-center align-items-center mt-5'>
+        <div className='container d-flex justify-content-center align-items-center mt-5'>
             <div className='col-6'>
                 <h2 className='fw-bold text-white'>Hi! I Am</h2>
                 <h2 className='fw-bold name mb-3'>U Sen Wan</h2>
