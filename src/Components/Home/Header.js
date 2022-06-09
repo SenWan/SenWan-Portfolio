@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <div className='container nav p-3  mb-3 d-flex justify-content-between align-items-center'>
             <div>
-                <h2 className='nav-title fw-bolder'>My Portfolio</h2>
+                <h2 className='nav-title fw-bolder'>SenWan</h2>
             </div>
             <nav className='navbar d-flex'>
                 <CustomLink className="fw-bold" to="/">Home</CustomLink>
