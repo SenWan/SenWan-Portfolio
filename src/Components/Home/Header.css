@@ -1,0 +1,7 @@
+.navbar a{
+    text-decoration: none;
+    list-style-type: none;
+    padding: 10px;
+    font-weight: 400;
+    font-size: larger;
+}
